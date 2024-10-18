@@ -1,0 +1,8 @@
+# ignore all __pycache__
+tests/__pycache__/
+examples/__pycache__/
+pyaip/__pycache__
+
+# ignore image generation script
+data/generate.py
+data/
