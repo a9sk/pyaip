@@ -2,8 +2,6 @@
 Basic image preprocessing in Python. The A stands for Advanced, we will eventualy get there i hope.
 
 ## License
-
-
 ```
 Copyright 2024 a9sk
 

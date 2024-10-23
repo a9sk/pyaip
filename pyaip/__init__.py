@@ -6,11 +6,11 @@ from .skew_correction import detect_skew_angle, rotate_image, correct_skew
 from .line_detection import detect_text_lines
 
 __all__ = [
-    'gaussian_blur', 
+    'gaussian_blur',
     'median_filter',
     'adaptive_threshold',
     'detect_skew_angle',
     'rotate_image',
-    'correct_skew'
+    'correct_skew',
     'detect_text_lines',
 ]

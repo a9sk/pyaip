@@ -5,4 +5,11 @@ pyaip/__pycache__
 
 # ignore image generation script
 data/generate.py
-data/
+/data/
+
+# ignore debug stuff
+debug*
+result.png
+
+# ignore main
+main.py
